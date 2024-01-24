@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi,+I'm+Viraj+Garje;😎+I+am+a+Last+year+undergraduate+engineering+student)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF741&background=FF5B0D00&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Viraj+Nitin+Garje.;%F0%9F%98%8E+I+am+a+Last+year+undergraduate+engineering+student.;%F0%9F%8C%B1+I'm+currently+learning+Java+Language+%26+.Net+Framework.;%F0%9F%92%AC+Ask+me+about+C%2B%2B%2C+Python%2C+Data+Science.)](https://git.io/typing-svg)
 
 - 👋 Hi, I'm Viraj Nitin Garje.
 - 😎 I am a Last year undergraduate engineering student.
